@@ -1,0 +1,531 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Matrix rain">
+  <rect width="1200" height="180" fill="#050914"/>
+  <g transform="translate(40 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.20s" begin="-0.00s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(114 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.55s" begin="-0.22s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(188 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.90s" begin="-0.44s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(262 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="4.25s" begin="-0.66s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(336 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="4.60s" begin="-0.88s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(410 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.20s" begin="-1.10s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(484 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.55s" begin="-1.32s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(558 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.90s" begin="-1.54s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(632 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="4.25s" begin="-1.76s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(706 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="4.60s" begin="-1.98s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(780 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.20s" begin="-2.20s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(854 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.55s" begin="-0.02s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(928 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">X</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.90s" begin="-0.24s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(1002 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">V</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="4.25s" begin="-0.46s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(1076 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">H</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">Y</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">A</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="4.60s" begin="-0.68s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(1150 0)">
+    <g>
+      <text x="0" y="16" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="34" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="52" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="70" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="88" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="106" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="124" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="142" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="160" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="178" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="196" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="214" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="232" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="250" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="268" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">1</text>
+      <text x="0" y="286" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">L</text>
+      <text x="0" y="304" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="322" text-anchor="middle" fill="#9bb3c9" opacity="0.22" font-family="Consolas, ui-monospace, monospace" font-size="15">0</text>
+      <text x="0" y="340" text-anchor="middle" fill="#9bb3c9" opacity="0.25" font-family="Consolas, ui-monospace, monospace" font-size="15">|</text>
+      <text x="0" y="358" text-anchor="middle" fill="#9bb3c9" opacity="0.30" font-family="Consolas, ui-monospace, monospace" font-size="15">G</text>
+      <text x="0" y="376" text-anchor="middle" fill="#9bb3c9" opacity="0.35" font-family="Consolas, ui-monospace, monospace" font-size="15">*</text>
+      <text x="0" y="394" text-anchor="middle" fill="#9bb3c9" opacity="0.40" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="412" text-anchor="middle" fill="#9bb3c9" opacity="0.45" font-family="Consolas, ui-monospace, monospace" font-size="15">#</text>
+      <text x="0" y="430" text-anchor="middle" fill="#9bb3c9" opacity="0.50" font-family="Consolas, ui-monospace, monospace" font-size="15">+</text>
+      <text x="0" y="448" text-anchor="middle" fill="#9bb3c9" opacity="0.55" font-family="Consolas, ui-monospace, monospace" font-size="15">M</text>
+      <text x="0" y="466" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <text x="0" y="484" text-anchor="middle" fill="#2ee6a6" opacity="0.85" font-family="Consolas, ui-monospace, monospace" font-size="15">C</text>
+      <text x="0" y="502" text-anchor="middle" fill="#5ce1ff" opacity="1.00" font-family="Consolas, ui-monospace, monospace" font-size="15">R</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -252" dur="3.20s" begin="-0.90s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" role="img" aria-label="">
+  <defs>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5ce1ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5ce1ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#b794f6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="8" width="1120" height="1" fill="#5ce1ff" opacity="0.18"/>
+  <rect y="6" width="180" height="6" rx="3" fill="url(#beam)">
+    <animate attributeName="x" values="-180;1200" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

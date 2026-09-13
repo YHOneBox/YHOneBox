@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Ability dashboard">
+  <rect width="1200" height="200" rx="10" fill="#050914"/>
+  <g transform="translate(40 24)">
+    <rect width="250" height="150" rx="10" fill="#071226" stroke="#5ce1ff" stroke-opacity="0.45"/>
+    <rect width="250" height="3" rx="1.5" fill="#5ce1ff">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="36" fill="#5ce1ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="11">SEE</text>
+    <text x="18" y="70" fill="#e8f4ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="20">VISION</text>
+    <text x="18" y="102" fill="#9bb3c9" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">CNN / YOLO / OpenCV</text>
+    <circle cx="220" cy="28" r="5" fill="#5ce1ff">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(330 24)">
+    <rect width="250" height="150" rx="10" fill="#071226" stroke="#b794f6" stroke-opacity="0.45"/>
+    <rect width="250" height="3" rx="1.5" fill="#b794f6">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="36" fill="#b794f6" font-family="IBM Plex Mono, Consolas, monospace" font-size="11">TALK</text>
+    <text x="18" y="70" fill="#e8f4ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="20">LANGUAGE</text>
+    <text x="18" y="102" fill="#9bb3c9" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">LLM · RAG · routing</text>
+    <circle cx="220" cy="28" r="5" fill="#b794f6">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(620 24)">
+    <rect width="250" height="150" rx="10" fill="#071226" stroke="#2ee6a6" stroke-opacity="0.45"/>
+    <rect width="250" height="3" rx="1.5" fill="#2ee6a6">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="36" fill="#2ee6a6" font-family="IBM Plex Mono, Consolas, monospace" font-size="11">SHIP</text>
+    <text x="18" y="70" fill="#e8f4ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="20">EDGE</text>
+    <text x="18" y="102" fill="#9bb3c9" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">Docker · Jetson · K8s</text>
+    <circle cx="220" cy="28" r="5" fill="#2ee6a6">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(910 24)">
+    <rect width="250" height="150" rx="10" fill="#071226" stroke="#f0d48a" stroke-opacity="0.45"/>
+    <rect width="250" height="3" rx="1.5" fill="#f0d48a">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="36" fill="#f0d48a" font-family="IBM Plex Mono, Consolas, monospace" font-size="11">WIRE</text>
+    <text x="18" y="70" fill="#e8f4ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="20">SYSTEMS</text>
+    <text x="18" y="102" fill="#9bb3c9" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">APIs · realtime UI</text>
+    <circle cx="220" cy="28" r="5" fill="#f0d48a">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

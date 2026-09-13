@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="YH">
+  <rect width="1200" height="90" fill="#050914"/>
+  <text id="a" x="600" y="58" text-anchor="middle" font-family="IBM Plex Mono, Consolas, monospace" font-size="36" fill="#5ce1ff">YI-HO CHANG</text>
+  <text x="604" y="58" text-anchor="middle" font-family="IBM Plex Mono, Consolas, monospace" font-size="36" fill="#ff4d9a" opacity="0.4">YI-HO CHANG
+    <animate attributeName="x" values="604;610;598;604" dur="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.5;0.1;0.4" dur="0.35s" repeatCount="indefinite"/>
+  </text>
+  <text x="596" y="58" text-anchor="middle" font-family="IBM Plex Mono, Consolas, monospace" font-size="36" fill="#2ee6a6" opacity="0.3">YI-HO CHANG
+    <animate attributeName="x" values="596;590;602;596" dur="0.45s" repeatCount="indefinite"/>
+  </text>
+</svg>

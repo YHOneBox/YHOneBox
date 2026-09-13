@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="▸  THE LAB">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050914"/>
+      <stop offset="100%" stop-color="#071226"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5ce1ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5ce1ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#b794f6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="52" rx="6" fill="url(#g)"/>
+  <path d="M18,10 V42 M18,10 H36 M18,42 H36" fill="none" stroke="#5ce1ff" stroke-width="1.4"/>
+  <path d="M1182,10 V42 M1182,10 H1164 M1182,42 H1164" fill="none" stroke="#5ce1ff" stroke-width="1.4"/>
+  <circle cx="56" cy="26" r="4" fill="#5ce1ff">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="74" y="32" fill="#5ce1ff" font-family="IBM Plex Mono, ui-monospace, Consolas, monospace" font-size="16">▸  THE LAB</text>
+  <rect x="40" y="46" width="160" height="3" rx="1.5" fill="url(#beam)">
+    <animate attributeName="x" values="40;980;40" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

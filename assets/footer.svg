@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="signal end">
+  <rect width="1200" height="100" fill="#050914"/>
+  <path fill="none" stroke="#5ce1ff" stroke-width="1.6" opacity="0.85"
+    d="M0,42 Q150,12 300,42 T600,42 T900,42 T1200,42">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,42 Q150,12 300,42 T600,42 T900,42 T1200,42;M0,42 Q150,72 300,42 T600,42 T900,42 T1200,42;M0,42 Q150,12 300,42 T600,42 T900,42 T1200,42"/>
+  </path>
+  <path fill="none" stroke="#b794f6" stroke-width="1.2" opacity="0.55"
+    d="M0,54 Q150,78 300,54 T600,54 T900,54 T1200,54">
+    <animate attributeName="d" dur="6.5s" repeatCount="indefinite"
+      values="M0,54 Q150,78 300,54 T600,54 T900,54 T1200,54;M0,54 Q150,30 300,54 T600,54 T900,54 T1200,54;M0,54 Q150,78 300,54 T600,54 T900,54 T1200,54"/>
+  </path>
+  <text x="600" y="86" text-anchor="middle" fill="#9bb3c9" font-family="IBM Plex Mono, Consolas, monospace" font-size="13">// end of transmission</text>
+</svg>

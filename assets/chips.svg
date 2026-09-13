@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Ability chips">
+  <rect width="1200" height="190" rx="8" fill="#050914"/>
+  <g>
+    <rect x="80" y="40" width="76" height="26" rx="13" fill="#071226" stroke="#5ce1ff"/>
+    <text x="118.0" y="57" text-anchor="middle" fill="#5ce1ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">VISION</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.10s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="230" y="78" width="49" height="26" rx="13" fill="#071226" stroke="#b794f6"/>
+    <text x="254.5" y="95" text-anchor="middle" fill="#b794f6" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">RAG</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.26s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="140" y="120" width="58" height="26" rx="13" fill="#071226" stroke="#2ee6a6"/>
+    <text x="169.0" y="137" text-anchor="middle" fill="#2ee6a6" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">YOLO</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.42s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="400" y="36" width="103" height="26" rx="13" fill="#071226" stroke="#f0d48a"/>
+    <text x="451.5" y="53" text-anchor="middle" fill="#f0d48a" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">ASR / TTS</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.58s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="540" y="96" width="58" height="26" rx="13" fill="#071226" stroke="#5ce1ff"/>
+    <text x="569.0" y="113" text-anchor="middle" fill="#5ce1ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">EDGE</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.74s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="700" y="40" width="130" height="26" rx="13" fill="#071226" stroke="#b794f6"/>
+    <text x="765.0" y="57" text-anchor="middle" fill="#b794f6" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">TRANSFORMERS</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.90s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="860" y="108" width="76" height="26" rx="13" fill="#071226" stroke="#2ee6a6"/>
+    <text x="898.0" y="125" text-anchor="middle" fill="#2ee6a6" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">JETSON</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.06s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="1000" y="50" width="112" height="26" rx="13" fill="#071226" stroke="#5ce1ff"/>
+    <text x="1056.0" y="67" text-anchor="middle" fill="#5ce1ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">MULTIMODAL</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.22s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="320" y="140" width="76" height="26" rx="13" fill="#071226" stroke="#e8f4ff"/>
+    <text x="358.0" y="157" text-anchor="middle" fill="#e8f4ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">PYTHON</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.38s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="640" y="148" width="76" height="26" rx="13" fill="#071226" stroke="#f0d48a"/>
+    <text x="678.0" y="165" text-anchor="middle" fill="#f0d48a" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">DOCKER</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.54s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="900" y="156" width="49" height="26" rx="13" fill="#071226" stroke="#b794f6"/>
+    <text x="924.5" y="173" text-anchor="middle" fill="#b794f6" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">K8S</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.70s" repeatCount="indefinite"/>
+  </g>
+</svg>

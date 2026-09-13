@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="System boot">
+  <rect width="1200" height="260" rx="10" fill="#071226" stroke="#5ce1ff" stroke-opacity="0.25"/>
+  <circle cx="28" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="22" r="6" fill="#27c93f"/>
+  <text x="96" y="26" fill="#9bb3c9" font-family="IBM Plex Mono, Consolas, monospace" font-size="12">yh@oregon ~ neural-shell</text>
+  <line x1="0" y1="40" x2="1200" y2="40" stroke="#5ce1ff" stroke-opacity="0.14"/>
+  <text x="36" y="48" fill="#e8f4ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">$ boot --profile yh
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="0s" fill="freeze"/>
+  </text>
+  <text x="36" y="74" fill="#2ee6a6" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">loading neural runtime ............ ok
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="0.35s" fill="freeze"/>
+  </text>
+  <text x="36" y="100" fill="#5ce1ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">mounting vision stack ............. ok
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="0.7s" fill="freeze"/>
+  </text>
+  <text x="36" y="126" fill="#b794f6" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">linking llm / rag fabric .......... ok
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="1.05s" fill="freeze"/>
+  </text>
+  <text x="36" y="152" fill="#2ee6a6" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">edge runtime · docker · linux ..... ok
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="1.4s" fill="freeze"/>
+  </text>
+  <text x="36" y="178" fill="#f0d48a" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">locale: english ................... ok
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="1.75s" fill="freeze"/>
+  </text>
+  <text x="36" y="204" fill="#5ce1ff" font-family="IBM Plex Mono, Consolas, monospace" font-size="15" opacity="0">status: online · still compiling
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="2.1s" fill="freeze"/>
+  </text>
+  <rect x="36" y="232" width="10" height="16" fill="#f0d48a">
+    <animate attributeName="opacity" values="1;0;1" dur="0.85s" begin="2.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
