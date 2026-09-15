@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Solar system"><rect width="1200" height="720" fill="#04060f"/><circle cx="130" cy="641" r="1.1" fill="#d7ecff" opacity="0.25"/>
+<circle cx="429" cy="516" r="0.6" fill="#d7ecff" opacity="0.37"/>
+<circle cx="1096" cy="445" r="0.6" fill="#d7ecff" opacity="0.49"/>
+<circle cx="651" cy="484" r="0.6" fill="#d7ecff" opacity="0.61"/>
+<circle cx="936" cy="378" r="1.1" fill="#d7ecff" opacity="0.73"/>
+<circle cx="621" cy="262" r="0.6" fill="#d7ecff" opacity="0.25"/>
+<circle cx="376" cy="257" r="0.6" fill="#d7ecff" opacity="0.37"/>
+<circle cx="175" cy="596" r="0.6" fill="#d7ecff" opacity="0.49"/>
+<circle cx="622" cy="545" r="1.1" fill="#d7ecff" opacity="0.61"/>
+<circle cx="1021" cy="359" r="0.6" fill="#d7ecff" opacity="0.73"/>
+<circle cx="927" cy="302" r="0.6" fill="#d7ecff" opacity="0.25"/>
+<circle cx="157" cy="128" r="0.6" fill="#d7ecff" opacity="0.37"/>
+<circle cx="1056" cy="436" r="1.1" fill="#d7ecff" opacity="0.49"/>
+<circle cx="345" cy="358" r="0.6" fill="#d7ecff" opacity="0.61"/>
+<circle cx="319" cy="508" r="0.6" fill="#d7ecff" opacity="0.73"/>
+<circle cx="871" cy="48" r="0.6" fill="#d7ecff" opacity="0.25"/>
+<circle cx="166" cy="579" r="1.1" fill="#d7ecff" opacity="0.37"/>
+<circle cx="1181" cy="329" r="0.6" fill="#d7ecff" opacity="0.49"/>
+<circle cx="704" cy="366" r="0.6" fill="#d7ecff" opacity="0.61"/>
+<circle cx="1025" cy="601" r="0.6" fill="#d7ecff" opacity="0.73"/>
+<circle cx="942" cy="78" r="1.1" fill="#d7ecff" opacity="0.25"/>
+<circle cx="199" cy="284" r="0.6" fill="#d7ecff" opacity="0.37"/>
+<circle cx="978" cy="688" r="0.6" fill="#d7ecff" opacity="0.49"/>
+<circle cx="141" cy="70" r="0.6" fill="#d7ecff" opacity="0.61"/>
+<circle cx="642" cy="670" r="1.1" fill="#d7ecff" opacity="0.73"/>
+<circle cx="1191" cy="705" r="0.6" fill="#d7ecff" opacity="0.25"/>
+<circle cx="920" cy="299" r="0.6" fill="#d7ecff" opacity="0.37"/>
+<circle cx="798" cy="692" r="0.6" fill="#d7ecff" opacity="0.49"/>
+<circle cx="718" cy="31" r="1.1" fill="#d7ecff" opacity="0.61"/>
+<circle cx="953" cy="371" r="0.6" fill="#d7ecff" opacity="0.73"/>
+<circle cx="352" cy="633" r="0.6" fill="#d7ecff" opacity="0.25"/>
+<circle cx="247" cy="513" r="0.6" fill="#d7ecff" opacity="0.37"/>
+<circle cx="128" cy="231" r="1.1" fill="#d7ecff" opacity="0.49"/>
+<circle cx="596" cy="140" r="0.6" fill="#d7ecff" opacity="0.61"/>
+<circle cx="515" cy="415" r="0.6" fill="#d7ecff" opacity="0.73"/>
+<circle cx="808" cy="516" r="0.6" fill="#d7ecff" opacity="0.25"/>
+<circle cx="173" cy="178" r="1.1" fill="#d7ecff" opacity="0.37"/>
+<circle cx="927" cy="419" r="0.6" fill="#d7ecff" opacity="0.49"/>
+<circle cx="1133" cy="292" r="0.6" fill="#d7ecff" opacity="0.61"/>
+<circle cx="288" cy="448" r="0.6" fill="#d7ecff" opacity="0.73"/>  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff6c8"/>
+      <stop offset="40%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#ff6a00" stop-opacity="0.15"/>
+    </radialGradient>
+  </defs>
+  <circle cx="600" cy="360" r="26" fill="url(#core)"/>
+  <circle cx="600" cy="360" r="14" fill="#ffd27a"/>
+  <text x="600" y="412" text-anchor="middle" fill="#ffd27a" font-family="Consolas, ui-monospace, monospace" font-size="11">SUN</text>
+<ellipse cx="600" cy="360" rx="55" ry="55" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="55" cy="0" r="3.2" fill="#c2c2c2"/>
+      
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="82" ry="82" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="82" cy="0" r="5.0" fill="#e6c07b"/>
+      
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="5.8s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="112" ry="112" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="112" cy="0" r="5.6" fill="#3d8bfd"/>
+      <circle cx="122" cy="-2" r="1.7" fill="#cfd8e6"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8.0s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="142" ry="142" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="142" cy="0" r="4.4" fill="#d07050"/>
+      
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="11.0s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="188" ry="188" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="188" cy="0" r="13.0" fill="#d4a574"/>
+      <circle cx="188" cy="0" r="7.15" fill="#c48a5a" opacity="0.45"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18.0s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="236" ry="236" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="236" cy="0" r="11.0" fill="#e8d5a3"/>
+      <ellipse cx="236" cy="0" rx="21.0" ry="3.8499999999999996" fill="none" stroke="#e8d5a3" stroke-width="2" opacity="0.85"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="24.0s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="278" ry="278" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="278" cy="0" r="8.0" fill="#7fddd9"/>
+      
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32.0s" repeatCount="indefinite"/>
+    </g>
+  </g><ellipse cx="600" cy="360" rx="318" ry="318" fill="none" stroke="#5ce1ff" stroke-opacity="0.18"/>  <g transform="translate(600 360)">
+    <g>
+      <circle cx="318" cy="0" r="7.6" fill="#4b6cff"/>
+      
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40.0s" repeatCount="indefinite"/>
+    </g>
+  </g><text x="600" y="700" text-anchor="middle" fill="#8aa0b8" font-family="Consolas, ui-monospace, monospace" font-size="12">Mercury  ·  Venus  ·  Earth  ·  Mars  ·  Jupiter  ·  Saturn  ·  Uranus  ·  Neptune</text></svg>

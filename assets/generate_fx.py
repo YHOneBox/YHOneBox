@@ -391,6 +391,7 @@ def footer() -> None:
 if __name__ == "__main__":
     heading("deck", "▸  SYSTEM DECK", CYAN)
     heading("core", "▸  ABILITY CORE", PURPLE)
+    heading("orbit", "▸  RESEARCH ORBIT", TEAL)
     heading("link", "▸  UPLINK", AMBER)
     matrix()
     radar()
